@@ -70,15 +70,20 @@ body {
     color: #404BBF;
 }
 /* ===== 1 SECTION HERO ===== */
+
+.hero {
+    background-color: #2e2f42;
+}
+
 .main-title {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: ;
+    color: #FFFFFF;
 }
 
 .modal-btn {
@@ -119,7 +124,7 @@ body {
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -138,6 +143,29 @@ body {
 
 .hidden-title {
     
+}
+
+/* ===== 4 SECTION TEAM */
+
+.team-sec {
+    background-color: #f4f4fd;
+}
+
+.team-photos {
+    background-color: #ffffff;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    background-color: #2e2f42;
+}
+
+.logo-studio-footer {
+    color:#f4f4fd;
+}
+
+.p-footer {
+    color: #f4f4fd;
 }
 
 /* ===== PORTFOLIO ===== */
